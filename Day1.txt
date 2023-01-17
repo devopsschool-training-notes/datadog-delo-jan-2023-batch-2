@@ -1,0 +1,35 @@
+How to submit Assignment?
+==============================
+www.debug.school
+===============================================
+
+What is Datadog?
+===========================
+			Obserbability platform
+
+			Monitoring
+			--------------------
+			infra(Metrices) + Alert + Dashboarding
+
+			Observability
+			-------------------------------
+			infra(Metrices) + Logs + APM + Syn* + RUM
+									    -----------------
+												Trace
+
+			------------------------------------------
+									alerting+Dashboard
+
+			https://www.devopsschool.com/blog/what-is-observability/
+
+UB - https://www.devopsschool.com/blog/how-to-install-datadog-agent-in-ubuntu/
+UB - https://www.devopsschool.com/blog/how-to-install-datadog-agent-in-centos/
+
+
+
+
+
+
+
+
+
